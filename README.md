@@ -1,4 +1,4 @@
-# Python Programming Tutorials
+# Python-Tutorials
 
 Welcome to my Python-Tutorials repository! [This collection contains code and resources I developed during my course on basic problem-solving techniques using the Python programming language.] 
 
@@ -25,4 +25,4 @@ This repository includes various Python scripts and tutorials covering fundament
 To get started with the tutorials, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/Python-Programming-Tutorials.git
+git clone https://github.com/Kaybee574/Python-Tutorials
